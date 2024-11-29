@@ -1,6 +1,9 @@
 # LawMatic B2 для macOS
 Описание проекта LawMatic B2 для macOS и условий получения доступа к исходным кодам
 
+<img width="1624" alt="image" src="https://github.com/user-attachments/assets/85a2ff82-1419-4fd8-8dee-4c6de5bd5576">
+
+
 ## Добро пожаловать в проект LawMatic B2 macOS  
 
 Исходный код этого проекта доступен только зарегистрированным пользователям при подписании NDA.  
